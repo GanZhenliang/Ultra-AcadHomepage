@@ -19,44 +19,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-你好！我叫陈葭迤，现为<i class="fas fa-university"></i> **复旦大学公共经济系**大三本科生，专业绩点为3.7/4.0，**位列前10%**，曾获复旦大学优秀学生奖学金。
+你好，我叫甘振良，现为<i class="fas fa-university"></i> <strong>复旦大学多媒体智能安全实验室</strong>2023级直博生，师从<a href="https://baike.baidu.com/item/%E5%BC%A0%E6%96%B0%E9%B9%8F/3812768" target="_blank">张新鹏教授</a>，主要研究方向为AI安全与大模型安全。  
+目前担任复旦大学计算与智能创新学院云翼讲师团团长、复旦大学产学实践协会会长、华为HSD与智能基座社团负责人。
 
-我目前在<i class="fas fa-building"></i> 中信证券研究所担任行业研究实习生，聚焦新能源行业研究与财务建模工作。此前，我也曾在<i class="fas fa-globe-asia"></i> **联合国志愿者组织（UNV）**担任研究助理，运用 STATA 与 SPSS 进行灾后就业状况的数据分析，并协助制定公共政策建议。
+当前，我正与<i class="fas fa-shield-alt"></i> <strong>蚂蚁集团大安全部门</strong>开展合作，聚焦AIGC图像可信生成与篡改防护，构建“生成即确权、修改可定位”的内容安全溯源体系。
 
-我具备较强的数据处理、行业分析与财务建模能力，曾在 CFA 商业分析挑战赛中荣获华东赛区第二名，也获得了全国“互联网+”创新创业大赛三等奖。我正在积极寻求金融研究与咨询方向的实习或研究机会，尤其关注行业分析与企业战略等方向。
+科研竞赛方面，曾问鼎华为ICT大赛全球总决赛特等奖，获得全国大学生软件创新大赛一等奖与最佳人气奖、全国大学生信息安全竞赛二等奖等13项国家级奖项。
+带领团队斩获创客北京优胜奖、中关村人才创客大赛最具创新创意奖等十余项创新创业荣誉，入围上海市杨浦区全球“创业之星”总决赛，连续三年晋级“挑战杯”“互联网+”国赛。  
+相关事迹被中国教育在线、人民交通网、华为ICT等媒体采访报道，并录制上海市教委网研中心“讲青年事、说青年话、立青年志”微视频。
 
-欢迎联系我，获取更多信息或查阅我的[简历](assets/Jiayi's CV.pdf)。
+> 我正在积极寻求AI安全方面的学术合作或研究机会，尤其关注大模型安全和AIGC水印。欢迎联系我，获取更多信息或查阅我的[简历](assets/JiZhenliang's CV.pdf)。
+
+如果您喜欢本首页模板，欢迎 Star 和 Fork 我的开源主页：<a href="https://github.com/GanZhenliang/academic" target="_blank">Academic</a>。
 
 <div class="highlight-blocks">
+
 <div class="highlight-block">
-  <h3>📊 金融实习</h3>
+  <h3>🛡️ AI安全青年学者</h3>
   <ul>
-    <li>中信证券 / 联合国志愿者</li>
-    <li>行业研究 / 数据建模</li>
+    <li>研究方向聚焦AIGC水印</li>
+    <li>与蚂蚁集团合作提出GenPTW</li>
+    <li>提出SyncGuard音频水印等</li>
   </ul>
 </div>
 
 <div class="highlight-block">
-  <h3>🏆 商赛奖项</h3>
+  <h3>📘 AI科普推动者</h3>
   <ul>
-    <li>CFA 华东二等奖</li>
-    <li>互联网+ 全国三等奖</li>
+    <li>复旦“云翼讲师团”团长</li>
+    <li>主讲“AI+安全”课程，覆盖千余人</li>
+    <li>足迹遍及新疆、嘉定、复旦附校</li>
   </ul>
 </div>
 
 <div class="highlight-block">
-  <h3>🧠 自主提升</h3>
+  <h3>🧩 产学融合实践者</h3>
   <ul>
-    <li>GPA 3.7 / 专业前10%</li>
-    <li>多项技能自学掌握</li>
+    <li>复旦产学实践协会会长</li>
+    <li>积极组织产学实践活动</li>
+    <li>投身AI安全相关创新创业</li>
   </ul>
 </div>
+
 </div>
 
 <span id="educations"></span>
 # 🎓 教育背景
+
 <div class="timeline-item">
-  <div class="timeline-time">2022.09 – 2026.06</div>
+  <div class="timeline-time">2023.09 – 至今</div>
 
   <div class="internship-box">
     <div class="internship-logo">
@@ -65,150 +76,189 @@ redirect_from:
 
     <div class="internship-summary">
       <h3>复旦大学</h3>
-      <div class="internship-role">公共经济系 本科</div>
+      <div class="internship-role">计算与智能创新学院</div>
+      <div class="internship-role">网络空间安全专业 · 23直博</div>
       <div class="internship-advisor">
-        GPA 3.7 / 4.0 · 专业前10%
+        导师：<a href="https://baike.baidu.com/item/%E5%BC%A0%E6%96%B0%E9%B9%8F/3812768" target="_blank">张新鹏教授</a>
       </div>
     </div>
 
     <div class="internship-detail">
-      <p>主修课程涵盖公司金融、财务管理、计量经济学等财经核心方向。</p>
+      <p>研究聚焦大模型安全、AIGC水印与音频水印。</p>
       <ul>
-        <li>获2022–2023学年优秀学生奖学金</li>
-        <li>获评复旦大学优秀团员</li>
+        <li>提出 GenPTW 等系列成果，创立“墨隐钤印”团队</li>
+        <li>与蚂蚁大安全合作，推进可信生成与溯源研究</li>
+        <li>AI 科普讲座，走进新疆、嘉定、复旦附校</li>
       </ul>
     </div>
   </div>
 </div>
 
-<span id="news"></span>
+<div class="timeline-item">
+  <div class="timeline-time">2019.09 – 2023.06</div>
+
+  <div class="internship-box">
+    <div class="internship-logo">
+      <img src="images/bjtu.png" alt="BJTU logo">
+    </div>
+
+    <div class="internship-summary">
+      <h3>北京交通大学</h3>
+      <div class="internship-role">网络空间安全学院</div>
+      <div class="internship-role">保密技术（信安） · 19本科</div>
+      <div class="internship-advisor">
+        导师：<a href="https://faculty.bjtu.edu.cn/9450/" target="_blank">卢思洋</a>, 
+        <a href="https://faculty.bjtu.edu.cn/9089/" target="_blank">李晓龙教授</a>
+      </div>
+    </div>
+
+    <div class="internship-detail">
+      <p>本科阶段累计获13项国家级奖项，创新创业成果突出。</p>
+      <ul>
+        <li>华为ICT全球总决赛特等奖</li>
+        <li>中国国际“互联网+”大学生创新创业大赛产业命题全国银奖</li>
+        <li>获北交“创新创业·英才奖”（全校本硕博仅3人）</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
 # 🔥 最新消息
-- *2024.06*: &nbsp;🎉 加入中信证券研究所，担任行业研究实习生，专注于新能源领域深度研究与财务建模。
-- *2024.05*: &nbsp;荣获 CFA Institute Research Challenge 华东赛区二等奖，带领团队完成 40 页深度公司研究报告。
-- *2024.03*: &nbsp;被录取为联合国志愿者组织（UNV）研究助理，参与灾后就业政策的调研与数据分析项目。
+- *2025.05*: &nbsp;📄 我们的工作 GenPTW 被报道于微信公众号：[复旦大学提出GenPTW！AIGC水印技术新标杆！](https://mp.weixin.qq.com/s/gv9OEoDcvkgXvyyrU37bhQ)。
+- *2025.03*: &nbsp;🚀 “墨隐钤印”项目入围杨浦区全球创业之星总决赛。
+- *2024.11*: &nbsp;🔐 与蚂蚁集团大安全部门开展科研合作，专注 AIGC 图像水印。  
+
+
+<span id="publications"></span>
+# 📌 代表作品
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May, 2025</div><img src='images/pic01.jpg' alt="GenPTW" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+## GenPTW · 生成溯源和篡改定位的内生图像水印
+提出一套生成式水印嵌入-篡改定位联合系统，实现“生成即确权，修改可定位”；与蚂蚁集团大安全部门联合开展研究，成果被“安全与AI”专题报道。
+- 首个内容溯源+篡改检测的统一的内生图像水印框架
+- 论文：[复旦大学提出GenPTW！AIGC水印技术新标杆！](https://mp.weixin.qq.com/s/gv9OEoDcvkgXvyyrU37bhQ)。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">June, 2022</div><img src='images/pic01.jpg' alt="FollowU" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+## FollowU · 华为ICT大赛全球冠军作品
+基于华为IoT小车开发的智能跟拍系统，代表北京交通大学参赛并斩获全球总决赛特等奖。
+- 实现自主路径识别与智能跟随算法，并实时避障
+- 视频自动上传后端，自动剪辑生成
+- 获评华为创新赛道最高奖项（全球3项）
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">March, 2025</div><img src='images/pic01.jpg' alt="AIGC疫苗" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+## AIGC安全疫苗项目 · 项目负责人
+构建面向文生图扩散模型的主动防御机制，提出“安全疫苗”策略，防御图像篡改与再利用风险。 
+- 覆盖SD、ControlNet、Lama等工作流程  
+- 成果正在开发App并积极推进落地上线
+</div>
+</div>
+
+
 
 <span id="internships"></span>
 # 🧑‍💼 实习经历
+
 <div class="timeline-item">
-  <div class="timeline-time">2024.03 – 2024.06</div>
+  <div class="timeline-time">2024.11 – 至今</div>
 
   <div class="internship-box">
     <div class="internship-logo">
-      <img src="images/citic.jpg" alt="CITIC logo">
+      <img src="images/ant.png" alt="Ant Group logo">
     </div>
 
     <div class="internship-summary">
-      <h3>中信证券研究所</h3>
-      <div class="internship-role">行业研究实习生 · 2024.03–2024.06</div>
+      <h3>蚂蚁集团 大安全部门</h3>
+      <div class="internship-role">科研实习生（外包）</div>
       <div class="internship-advisor">
-        指导人：行业研究员（新能源方向）
+        合作导师：内容安全方向高级研究员
       </div>
     </div>
 
     <div class="internship-detail">
-      <p>参与新能源行业研究，完成多份内部深度报告及模型分析。</p>
+      <p>聚焦AIGC可信生成与篡改防护系统研发，推进前沿安全技术落地。</p>
       <ul>
-        <li>独立撰写新能源行业深度研究报告，梳理产业链及政策动因</li>
-        <li>基于 Wind、Bloomberg 构建企业财务模型并定期更新</li>
-        <li>将研究数据可视化，提升报告表达与结论传达效果</li>
+        <li>设计生成内容内嵌水印与编辑轨迹溯源机制，提升可确权性</li>
+        <li>主导“GenPTW”方案开发，实现“生成即确权、修改可定位”</li>
+        <li>撰写对内技术方案文档，并参与与多模态内容安全产品集成</li>
       </ul>
     </div>
   </div>
 </div>
 
-<div class="timeline-item">
-  <div class="timeline-time">2025.02 – 2025.05</div>
 
-  <div class="internship-box">
-    <div class="internship-logo">
-      <img src="images/unv_logo.png" alt="UNV logo">
-    </div>
-
-    <div class="internship-summary">
-      <h3>联合国志愿者组织（UNV）</h3>
-      <div class="internship-role">研究助理实习生 · 2025.02–2025.05</div>
-      <div class="internship-advisor">
-        指导人：公共政策与社会发展部
-      </div>
-    </div>
-
-    <div class="internship-detail">
-      <p>围绕灾后群体就业策略开展研究支持与数据分析。</p>
-      <ul>
-        <li>收集酸袭击幸存者案例，调研灾后就业现状</li>
-        <li>使用 STATA、SPSS 进行数据建模与政策效果分析</li>
-        <li>协助撰写鼓励就业型政策草案，支撑联合国社会发展目标</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<span id="projects"></span>
-# 📌 项目经历
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July, 2024</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## 华东医药深度研究项目 · 组长  
-
-主导40页研究报告撰写，完成财务预测与行业研判。协调团队使用 Wind/iFind 进行数据提取与分析。
-- 梳理公司三大业务板块并搭建财务模型  
-- 分析医药行业趋势，撰写核心章节内容  
-- 带领团队高质量完成完整研报  
-
-- [[查看项目详情]](assets/JiayiChen_MedReport.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July, 2024</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## “互联网+”创新创业大赛 · 全国三等奖  
-
-作为核心成员参与市场调研、商业分析与策略规划，项目入围上海赛区决赛并获全国奖项。
-- 撰写商业计划书，设计营销模型与落地方案  
-- 负责展示型PPT制作与现场路演呈现  
-- 协调小组推进项目材料提交与优化  
-
-- [[项目材料预览]](assets/JiayiChen_InnoPlus.pdf)
-
-</div>
-</div>
-
-<span id="blogs"></span>
+<span id="student"></span>
 # 🏫 学生工作
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July, 2024</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024, Fudan</div><img src='images/student_work_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-## 粤语社 · 活动组组长
-负责社团活动策划、赞助洽谈与财务管理，推动社团高质量运转。
-- 拟定赞助合同并与企业谈判，单次活动获赞助超 5,000 元  
-- 统筹社团财务，定期提交审计报告与改进建议  
-- 提出节约采购成本与提升收入方案，部分被采纳执行
-[[查看活动成果]](assets/JiayiChen_CantoneseClub.pdf)
+
+## 学院研会学术部部长 · 组织高水平学术活动  
+复旦大学博士生论坛（计算机技术篇）、“相辉AI+”交叉论坛、“科研提升训练营”等多项核心学术项目的策划与执行者。  
+- 推动复旦博士论坛计算机分论坛成功举办，广受师生好评  
+- 协调讲者邀请与流程筹备，完善学术活动组织机制  
+- 强化论坛内容与传播，提升品牌影响力
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July, 2024</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023–2024</div><img src='images/student_work_02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-## 校学生会 · 学术部成员
-参与校级学术活动宣传与物料制作，提升活动传播力。
-- 设计海报、推文等宣传物料近10次，平均阅读量达1500+  
-- 使用 Photoshop 与 Canva 等工具，协同宣传多平台同步投放  
-- 推进部⻔整体宣传效率与品牌感知度
-[[查看作品样例]](assets/JiayiChen_StudentUnion.pdf)
+
+## “云翼讲师团” 首届团长 · AI科普课程主讲  
+组织“云翼之声”系列课程，走进新疆阿克苏拜城二中、嘉定立新村小学等地，传播AI前沿科技。  
+- 设计“AI+安全”主题课程，单课覆盖人数超千人  
+- 结合真实案例与交互体验，提升青少年AI素养
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024, Fudan</div><img src='images/student_work_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## 复旦大学产学实践协会会长 · 推动产业融合与实训落地  
+作为HSD生态与华为智能基座社团负责人，统筹策划系列实践活动。  
+- 策划“鸿蒙山花烂漫下午茶”“开发者论坛”等落地实践项目  
+- 联动校企资源，打造产教协同创新平台
+</div>
+</div>
+
+
+<span id="talks"></span>
+# 🏅 受邀报告
+- *2025.0x*: &nbsp;华为2025 HDC大会，议题《xxx》
+- *2023.06.09*: &nbsp;在北京交通大学威海校区“知创学创，共筑未来”创业指导训练营暨第九届中国国际大学生创新大赛宣讲会中，受邀进行经验分享  
+- *2023.03.31*: &nbsp;受邀在昇思三周年生日会上作《与昇思结缘，从创新创业到全员保研》主题报告  
+- *2023.03.23*: &nbsp;于北京交通大学“新篇章·再起航” 2022年度本科生工作总结大会作《如何做好创新创业》主题分享，围绕创新竞赛经验、成长历程与创业心得展开交流  
+- *2022.12.27*: &nbsp;在“多YOUNG 新生 v3”大会中作《创新创业与华为产业命题分享》专题报告
 
 <span id="honors"></span>
 # 🏅 所获荣誉
-- *2023.09*: &nbsp;荣获复旦大学优秀学生奖学金（2022–2023 学年）  
-- *2023.05*: &nbsp;获评复旦大学“优秀共青团员”荣誉称号  
-- *2024.09*: &nbsp;CFA Institute Research Challenge 华东赛区二等奖  
-- *2024.09*: &nbsp;“互联网+”全国大学生创新创业大赛三等奖  
-
-<span id="self"></span>
-# 📝 个人评价
-- 具备扎实的金融与数据分析能力，能够独立完成行业研究与财务建模任务  
-- 善于沟通与统筹，具备团队协作与项目推进能力  
-- 学习能力强，注重反思提升，多项技能通过自学掌握（如 Excel、STATA、PS 等）  
-- 对金融行业保持高度好奇与热情，乐于在实践中积累经验、提升专业素养
+- *2025.03*: &nbsp;复旦大学一等学业优秀奖学金（2023–2024 学年）  
+- *2024.11*: &nbsp;上海复旦大学校友会青年同学会创新创业项目立项支持  
+- *2024.10*: &nbsp;复旦大学优秀学生  
+- *2024*: &nbsp;中国国际大学生创新大赛上海市赛累计获 1 金 1 银  
+- *2023.11*: &nbsp;中国国际大学生创新大赛全国铜奖 
+- *2023*: &nbsp;“挑战杯”中国大学生创业计划竞赛全国铜奖  
+- *2023.07*: &nbsp;受聘北京交通大学“互联网+”大赛朋辈创业咨询师  
+- *2023.05*: &nbsp;北京交通大学创新创业·英才奖（全校本硕博评选3人）  
+- *2022.11*: &nbsp;中国国际大学生创新大赛全国银奖（产业命题赛道）  
+- *2022.08*: &nbsp;全国大学生信息安全竞赛二等奖  
+- *2022.06*: &nbsp;华为 ICT 大赛全球总决赛特等奖（个人奖项）  
+- *2022.06*: &nbsp;MathorCup 高校数学建模挑战赛本科生组全国三等奖  
+- *2022.06*: &nbsp;华为 ICT 大赛中国赛区一等奖  
+- *2022.05*: &nbsp;全国大学生软件创新大赛一等奖  
+- *2022*: &nbsp;中关村人才创客大赛最具创新创意奖  
+- *2022*: &nbsp;北京·亦庄创新创业大赛优秀奖  
+- *2022*: &nbsp;“创客中国”创客北京轨道交通通信信号专项赛优胜奖  
+- *2022*: &nbsp;美国大学生数学建模竞赛 H 奖  
+- *2021.12*: &nbsp;北京市交通科技大赛二等奖
+- *2021*: &nbsp;美国大学生数学建模竞赛 H 奖  
+- *2021*: &nbsp;北京交通大学宣传思想工作优秀学生记者  
+- *2020.12*: &nbsp;“长风杯”全国大学生数据分析与挖掘竞赛全国二等奖  
+- *2019–2022*: &nbsp;北京交通大学学习优秀奖学金、优秀团员

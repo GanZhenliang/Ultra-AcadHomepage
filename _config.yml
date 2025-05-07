@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "陈葭迤(Jiayi Chen)"
+title                    : "甘振良(Zhenliang Gan)"
 title_separator          : "-"
 subtitle                 : 
-name                     : "陈葭迤(Jiayi Chen)"
-description              : "复旦大学公共经济系本科生，专注于金融行业。"
+name                     : "甘振良(Zhenliang Gan)"
+description              : "复旦大学计算机23直博，专注于AI安全。"
 url                     : "https://ganzhenliang.github.io/xtycjy"
 baseurl                 : ""
 repository               : "ganzhenliang/xtycjy"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,15 +27,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈葭迤(Jiayi Chen)"
-  avatar           : "images/tx1.jpg"
-  avatar1          : "images/tx2.jpg"
+  name             : "甘振良(Zhenliang)"
+  avatar           : "images/tx.jpg"
+  avatar1          : "images/tx1.jpg"
+  avatar2          : "images/tx2.jpg"
   bio              : "复旦大学(Fudan University)"
   location         : "上海，中国"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "3047729976@qq.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=Yol91yMAAAAJ&hl=zh-CN"
+  email            : "zlgan23@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

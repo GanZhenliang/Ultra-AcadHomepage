@@ -9,17 +9,17 @@ main:
   - title: "最新消息"
     url: "#news"
 
+  - title: "代表作品"
+    url: "#publications"
+
   - title: "实习经历"
     url: "#internships"
 
-  - title: "项目经历"
-    url: "#projects"
-
   - title: "学生工作"
-    url: "#blogs"
+    url: "#student"
+
+  - title: "受邀报告"
+    url: "#talks"
 
   - title: "所获荣誉"
     url: "#honors"
-
-  - title: "个人评价"
-    url: "#self"

@@ -542,6 +542,7 @@
 }
 
 .internship-logo {
+  //flex-basis: 20%;
   margin-right: 24px;
   display: flex;
   align-items: center;
@@ -549,14 +550,15 @@
 }
 
 .internship-logo img {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   object-fit: cover;
 }
 
 .internship-summary {
+  //flex-basis: 20%;
   position: relative;
   padding-right: 16px;
   margin-right: 12px;
@@ -590,12 +592,14 @@
 }
 
 .internship-detail {
-  flex: 1;
+  //flex-basis: 60%;
+  flex-shrink: 0;
   padding-left: 8px;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
+
 
 .internship-detail p {
   margin: 0 0 0.1em 0;
