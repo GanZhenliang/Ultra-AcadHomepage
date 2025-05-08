@@ -123,7 +123,7 @@ redirect_from:
   </div>
 </div>
 
-
+<span id="news"></span>
 # 🔥 最新消息
 - *2025.05*: &nbsp;📄 我们的工作 GenPTW 被报道于微信公众号：[复旦大学提出GenPTW！AIGC水印技术新标杆！](https://mp.weixin.qq.com/s/gv9OEoDcvkgXvyyrU37bhQ)。
 - *2025.03*: &nbsp;🚀 “墨隐钤印”项目入围杨浦区全球创业之星总决赛。
