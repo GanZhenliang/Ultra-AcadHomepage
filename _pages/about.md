@@ -30,7 +30,7 @@ redirect_from:
 
 > 我正在积极寻求AI安全方面的学术合作或研究机会，尤其关注大模型安全和AIGC水印。欢迎联系我，获取更多信息或查阅我的[简历](assets/JiZhenliang's CV.pdf)。
 
-如果您喜欢本首页模板，欢迎 Star 和 Fork 我的开源主页：<a href="https://github.com/GanZhenliang/academic" target="_blank">Academic</a>。
+如果您喜欢本首页模板，欢迎 Star 和 Fork 我的开源主页：<a href="https://github.com/GanZhenliang/Ultra-AcadHomepage" target="_blank">Academic</a>。
 
 <div class="highlight-blocks">
 
