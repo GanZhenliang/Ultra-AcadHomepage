@@ -1,8 +1,3 @@
-当然，以下是完整可用、精简无署名保护机制的 `README.md` 文件内容，适用于你的仓库 **Ultra-AcadHomepage**，你可直接复制保存使用：
-
----
-
-````markdown
 # Ultra-AcadHomepage
 
 > 🧠 A deeply customized academic homepage template — developed by [Zhenliang Gan](https://github.com/GanZhenliang).
