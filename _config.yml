@@ -12,9 +12,9 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "甘振良(Zhenliang Gan)"
 description              : "复旦大学计算机23直博，专注于AI安全。"
-url                     : "https://ganzhenliang.github.io/xtycjy"
+url                     : "https://github.com/GanZhenliang/Ultra-AcadHomepage"
 baseurl                 : ""
-repository               : "ganzhenliang/xtycjy"
+repository               : "ganzhenliang/Ultra-AcadHomepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics

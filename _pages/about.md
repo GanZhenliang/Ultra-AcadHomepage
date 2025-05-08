@@ -197,7 +197,7 @@ redirect_from:
 <span id="student"></span>
 # 🏫 学生工作
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024, Fudan</div><img src='images/student_work_01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024, Fudan</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## 学院研会学术部部长 · 组织高水平学术活动  
@@ -208,7 +208,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023–2024</div><img src='images/student_work_02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023–2024</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## “云翼讲师团” 首届团长 · AI科普课程主讲  
@@ -218,7 +218,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024, Fudan</div><img src='images/student_work_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024, Fudan</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## 复旦大学产学实践协会会长 · 推动产业融合与实训落地  
