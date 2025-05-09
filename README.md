@@ -2,9 +2,7 @@
 
 > 🧠 A deeply customized academic homepage template — developed by [Zhenliang Gan](https://github.com/GanZhenliang).
 
-**Ultra-AcadHomepage** 是一个基于 [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io) 模板的深度定制版本，专为学术个人主页设计，具备模块化配置、美观简洁、双语支持等特性，适合研究者、开发者和学生展示自己的学术背景与成果。
-
-超级学术主页模板[Demo](http://www.zlgan.top/Ultra-AcadHomepage/)
+[**Ultra-AcadHomepage**](http://www.zlgan.top/Ultra-AcadHomepage/) 是一个基于 [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io) 模板的深度定制版本，专为学术个人主页设计，具备模块化配置、美观简洁、双语支持等特性，适合研究者、开发者和学生展示自己的学术背景与成果。
 
 ---
 
