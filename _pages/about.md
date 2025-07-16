@@ -20,13 +20,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 你好，我叫甘振良，现为<i class="fas fa-university"></i> <strong>复旦大学多媒体智能安全实验室</strong>2023级直博生，师从<a href="https://baike.baidu.com/item/%E5%BC%A0%E6%96%B0%E9%B9%8F/3812768" target="_blank">张新鹏教授</a>，主要研究方向为AI安全与大模型安全。  
-目前担任复旦大学计算与智能创新学院云翼讲师团团长、复旦大学产学实践协会会长、华为HSD与复旦大学教育部·智能基座社团负责人。
 
 当前，我正与<i class="fas fa-shield-alt"></i> <strong>蚂蚁集团大安全部门</strong>开展合作，聚焦AIGC图像可信生成与篡改防护，构建“生成即确权、修改可定位”的内容安全溯源体系。
 
 科研竞赛方面，曾问鼎华为ICT大赛全球总决赛特等奖，获得全国大学生软件创新大赛一等奖与最佳人气奖、全国大学生信息安全竞赛二等奖等13项国家级奖项。
 带领团队斩获创客北京优胜奖、中关村人才创客大赛最具创新创意奖等十余项创新创业荣誉，入围上海市杨浦区全球“创业之星”总决赛，连续三年晋级“挑战杯”“互联网+”国赛。  
-相关事迹被中国教育在线、人民交通网、华为ICT等媒体采访报道，并录制上海市教委网研中心“讲青年事、说青年话、立青年志”微视频。
+被中国教育在线、人民交通网、华为ICT等媒体采访报道，并录制上海市教委网研中心“讲青年事、说青年话、立青年志”微视频。
 
 > 我正在积极寻求AI安全方面的学术合作或研究机会，尤其关注大模型安全和AIGC水印。欢迎联系我，获取更多信息或查阅我的[简历](assets/JiZhenliang's CV.pdf)。
 
@@ -82,13 +81,13 @@ redirect_from:
         导师：<a href="https://baike.baidu.com/item/%E5%BC%A0%E6%96%B0%E9%B9%8F/3812768" target="_blank">张新鹏教授</a>
       </div>
     </div>
-
+    
     <div class="internship-detail">
       <p>研究聚焦大模型安全、AIGC水印与音频水印。</p>
       <ul>
-        <li>提出 GenPTW 等系列成果，创立“墨隐钤印”团队</li>
+        <li>提出 GenPTW 等，创立“墨隐钤印”团队</li>
         <li>与蚂蚁大安全合作，推进可信生成与溯源研究</li>
-        <li>AI 科普讲座，走进新疆、嘉定、复旦附校</li>
+        <li>即将在鸿蒙上架APP</li>
       </ul>
     </div>
   </div>
@@ -111,13 +110,13 @@ redirect_from:
         <a href="https://faculty.bjtu.edu.cn/9089/" target="_blank">李晓龙教授</a>
       </div>
     </div>
-
+    
     <div class="internship-detail">
       <p>本科阶段累计获13项国家级奖项，创新创业成果突出。</p>
       <ul>
-        <li>华为ICT全球总决赛特等奖</li>
-        <li>中国国际“互联网+”大学生创新创业大赛产业命题全国银奖</li>
-        <li>获北交“创新创业·英才奖”（全校本硕博仅3人）</li>
+        <li>华为ICT全球总决赛特等奖、全国软创一等奖</li>
+        <li>“互联网+”大赛产业命题全国银奖</li>
+        <li>“创新创业·英才奖”（全校本硕博仅3人）</li>
       </ul>
     </div>
   </div>
@@ -173,15 +172,13 @@ redirect_from:
     <div class="internship-logo">
       <img src="images/ant.png" alt="Ant Group logo">
     </div>
-
     <div class="internship-summary">
       <h3>蚂蚁集团 大安全部门</h3>
       <div class="internship-role">科研实习生（外包）</div>
       <div class="internship-advisor">
-        合作导师：内容安全方向高级研究员
+        合作导师：大模型安全高级研究员
       </div>
     </div>
-
     <div class="internship-detail">
       <p>聚焦AIGC可信生成与篡改防护系统研发，推进前沿安全技术落地。</p>
       <ul>
@@ -193,53 +190,19 @@ redirect_from:
   </div>
 </div>
 
-
-<span id="student"></span>
-# 🏫 学生工作
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024, Fudan</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## 学院研会学术负责人 · 组织高水平学术活动  
-复旦大学博士生论坛（计算机技术篇）、“相辉AI+”交叉论坛、“科研提升训练营”等多项核心学术项目的策划与执行者。  
-- 推动复旦博士论坛计算机分论坛成功举办，广受师生好评  
-- 协调讲者邀请与流程筹备，完善学术活动组织机制  
-- 强化论坛内容与传播，提升品牌影响力
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023–2024</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## “云翼讲师团” 首届团长 · AI科普课程主讲  
-组织“云翼之声”系列课程，走进新疆阿克苏拜城二中、嘉定立新村小学等地，传播AI前沿科技。  
-- 设计“AI+安全”主题课程，单课覆盖人数超千人  
-- 结合真实案例与交互体验，提升青少年AI素养
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024, Fudan</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## 复旦大学产学实践协会会长 · 推动产业融合与实训落地  
-作为HSD生态与华为智能基座社团负责人，统筹策划系列实践活动。  
-- 策划“鸿蒙山花烂漫下午茶”“开发者论坛”等落地实践项目  
-- 联动校企资源，打造产教协同创新平台
-</div>
-</div>
-
-
 <span id="talks"></span>
+
 # 🏅 受邀报告
-- *待更新*:
+- *待整理*: &nbsp; **部分列出**
 - *2023.06.09*: &nbsp;在北京交通大学威海校区“知创学创，共筑未来”创业指导训练营暨第九届中国国际大学生创新大赛宣讲会中，受邀进行经验分享  
 - *2023.03.31*: &nbsp;受邀在昇思三周年生日会上作《与昇思结缘，从创新创业到全员保研》主题报告  
 - *2023.03.23*: &nbsp;于北京交通大学“新篇章·再起航” 2022年度本科生工作总结大会作《如何做好创新创业》主题分享，围绕创新竞赛经验、成长历程与创业心得展开交流  
 - *2022.12.27*: &nbsp;在“多YOUNG 新生 v3”大会中作《创新创业与华为产业命题分享》专题报告
 
 <span id="honors"></span>
+
 # 🏅 所获荣誉
-- *待更新:*: &nbsp; **以下是部分**
+- *待整理*: &nbsp; **部分列出**
 - *2025.03*: &nbsp;复旦大学一等学业优秀奖学金（2023–2024 学年）  
 - *2024.11*: &nbsp;上海复旦大学校友会青年同学会创新创业项目立项支持  
 - *2024.10*: &nbsp;复旦大学优秀学生
